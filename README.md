@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin 👋
 
-Currently, I'm a junior at Cal State Fullerton studying Computer Science. I'm expected to graduate in May 2022. During Summer 2020, I was an intern at Berkeley Lab (Lawrence Berkeley National Laboratory). This summer, I will be joining Bank of America as a software engineer intern.
+Currently, I'm a senior at Cal State Fullerton studying Computer Science. I'm expected to graduate in May 2022. During Summer 2021, I was a Software Engineering Intern at Bank of America through their Global Technology Summer Analyst Program. During Summer 2020, I was a Software Engineering Intern at Berkeley Lab.
 
 <!--
 **kevin-dillon/kevin-dillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
